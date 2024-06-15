@@ -1,0 +1,73 @@
+0	1	mikrocAVR.exe -MSF -DBG -pATMEGA8 -RA -DL -SSA -O11111114 -fo16 -N"D:\tejaswini\AVR_27_7_2016\ModBus.mcpav" -BOOTSZ1024 -BOOTOP0 -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\uses\lte64kw\" -SP"D:\tejaswini\AVR_27_7_2016\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\" -SP"D:\iPDU_All using Boards_Data\Lakshmi\Final Handover\AVR_27_7_2016\" -SP"D:\iPDU_All using Boards_Data\Lakshmi\AVR_15_7_2016\" -SP"D:\iPDU_All using Boards_Data\Lakshmi\AVR_8_7_2016_1\" -SP"D:\iPDU_All using Boards_Data\Lakshmi\AVR_10_6_2016\" -SP"D:\iPDU_All using Boards_Data\Sachin\AVR_10_6_2016\" -SP"D:\iPDU_All using Boards_Data\Sachin\AVR_9_6_2016\" -SP"D:\iPDU_All using Boards_Data\Sachin\AVR_8_6_2016\" -SP"D:\iPDU_All using Boards_Data\Sachin\AVR_7_6_2016\" -SP"D:\iPDU_All using Boards_Data\Sachin\AVR_6_4_2016_2\" -SP"D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR_6_4_2016_2\" -SP"D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR_6_4_2016_1\" -SP"D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR_6_4_2016\" -SP"D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR\" -SP"D:\iPDU_All using Boards_Data\DI\SmokeFactory_8_5_2016\" -SP"D:\iPDU_All using Boards_Data\DI\SmokeFactory_7_5_2016_1\" -SP"D:\iPDU_All using Boards_Data\DI\SmokeFactory_7_5_2016\" -SP"D:\iPDU_All using Boards_Data\DI\SmokeFactory_6_5_2016_1\" -SP"D:\iPDU_All using Boards_Data\DI\SmokeFactory_6_5_2016\" -SP"D:\iPDU_All using Boards_Data\DI\SmokeFactory_5_5_2016\" -SP"D:\iPDU_All using Boards_Data\DI\SmokeFactory_4_5_2016\" -SP"D:\iPDU_All using Boards_Data\DI\SmokeFactory\" -IP"D:\iPDU_All using Boards_Data\DI\SmokeFactory\" -IP"D:\iPDU_All using Boards_Data\DI\SmokeFactory_4_5_2016\" -IP"D:\iPDU_All using Boards_Data\DI\SmokeFactory_5_5_2016\" -IP"D:\iPDU_All using Boards_Data\DI\SmokeFactory_6_5_2016\" -IP"D:\iPDU_All using Boards_Data\DI\SmokeFactory_6_5_2016_1\" -IP"D:\iPDU_All using Boards_Data\DI\SmokeFactory_7_5_2016\" -IP"D:\iPDU_All using Boards_Data\DI\SmokeFactory_7_5_2016_1\" -IP"D:\iPDU_All using Boards_Data\DI\SmokeFactory_8_5_2016\" -IP"D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR\" -IP"D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR_6_4_2016\" -IP"D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR_6_4_2016_1\" -IP"D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR_6_4_2016_2\" -IP"D:\iPDU_All using Boards_Data\Sachin\AVR_6_4_2016_2\" -IP"D:\iPDU_All using Boards_Data\Sachin\AVR_7_6_2016\" -IP"D:\iPDU_All using Boards_Data\Sachin\AVR_8_6_2016\" -IP"D:\iPDU_All using Boards_Data\Sachin\AVR_9_6_2016\" -IP"D:\iPDU_All using Boards_Data\Sachin\AVR_10_6_2016\" -IP"D:\iPDU_All using Boards_Data\Lakshmi\AVR_10_6_2016\" -IP"D:\iPDU_All using Boards_Data\Lakshmi\AVR_8_7_2016_1\" -IP"D:\iPDU_All using Boards_Data\Lakshmi\AVR_15_7_2016\" -IP"D:\iPDU_All using Boards_Data\Lakshmi\Final Handover\AVR_27_7_2016\" -IP"D:\tejaswini\AVR_27_7_2016\" "ModBus.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_MemManager.mcl" "__Lib_Conversions.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_Keypad4x4.mcl" "__Lib_Manchester.mcl" "__Lib_OneWire.mcl" "__Lib_PS2.mcl" "__Lib_Sound.mcl" "__Lib_SoftI2C.mcl" "__Lib_SoftSPI.mcl" "__Lib_SoftUART.mcl" "__Lib_ADC.mcl" "__Lib_EEPROM_eew.mcl" "__Lib_FLASH_rwe.mcl" "__Lib_PWM16bit_12.mcl" "__Lib_SPI_b5432_x2.mcl" "__Lib_TWI.mcl" "__Lib_UART_d01_ursel.mcl" "__Lib_PortExpander.mcl" "__Lib_CANSPI.mcl" "__Lib_CF.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_Mmc.mcl" "__Lib_RS485.mcl" "__Lib_S1D13700.mcl" "__Lib_T6963C.mcl" "__Lib_SPIGlcd.mcl" "__Lib_SPILcd.mcl" "__Lib_SPILcd8.mcl" "__Lib_SPIT6963C.mcl" "__Lib_TouchPanel.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\Lakshmi\Final Handover\AVR_27_7_2016'	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\Lakshmi\AVR_15_7_2016'	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\Lakshmi\AVR_8_7_2016_1'	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\Lakshmi\AVR_10_6_2016'	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\Sachin\AVR_10_6_2016'	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\Sachin\AVR_9_6_2016'	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\Sachin\AVR_8_6_2016'	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\Sachin\AVR_7_6_2016'	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\Sachin\AVR_6_4_2016_2'	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR_6_4_2016_2'	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR_6_4_2016_1'	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR_6_4_2016'	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR'	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\DI\SmokeFactory_8_5_2016'	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\DI\SmokeFactory_7_5_2016_1'	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\DI\SmokeFactory_7_5_2016'	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\DI\SmokeFactory_6_5_2016_1'	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\DI\SmokeFactory_6_5_2016'	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\DI\SmokeFactory_5_5_2016'	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\DI\SmokeFactory_4_5_2016'	 
+warning: 0	1501	Specified search path does not exist: 'D:\iPDU_All using Boards_Data\DI\SmokeFactory'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\DI\SmokeFactory'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\DI\SmokeFactory_4_5_2016'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\DI\SmokeFactory_5_5_2016'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\DI\SmokeFactory_6_5_2016'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\DI\SmokeFactory_6_5_2016_1'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\DI\SmokeFactory_7_5_2016'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\DI\SmokeFactory_7_5_2016_1'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\DI\SmokeFactory_8_5_2016'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR_6_4_2016'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR_6_4_2016_1'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR_6_4_2016_2'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\Sachin\AVR_6_4_2016_2'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\Sachin\AVR_7_6_2016'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\Sachin\AVR_8_6_2016'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\Sachin\AVR_9_6_2016'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\Sachin\AVR_10_6_2016'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\Lakshmi\AVR_10_6_2016'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\Lakshmi\AVR_8_7_2016_1'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\Lakshmi\AVR_15_7_2016'	 
+warning: 0	1502	Specified include path does not exist: 'D:\iPDU_All using Boards_Data\Lakshmi\Final Handover\AVR_27_7_2016'	 
+diagnostics: 0	122	Compilation Started	ATMEGA8.c
+diagnostics: 1063	123	Compiled Successfully	ATMEGA8.c
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 170	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	122	Compilation Started	__Lib_MemManager.c
+warning: 34	1508	Implicit conversion of int to ptr	__Lib_MemManager.c
+hint: 107	1163	Variable 'tryIt' has been declared, but not used	__Lib_MemManager.c
+hint: 108	1163	Variable 'j' has been declared, but not used	__Lib_MemManager.c
+hint: 109	1163	Variable 'addr' has been declared, but not used	__Lib_MemManager.c
+hint: 109	1163	Variable 'lsize' has been declared, but not used	__Lib_MemManager.c
+diagnostics: 233	123	Compiled Successfully	__Lib_MemManager.c
+diagnostics: 0	126	All files Preprocessed in 63 ms	 
+diagnostics: 0	122	Compilation Started	lcd.h
+error: 72	324	Undeclared identifier 'RXEN0_bit' in expression	ModBus.c
+error: 75	324	Undeclared identifier 'RXEN0_bit' in expression	ModBus.c
+error: 90	324	Undeclared identifier 'RXEN0_bit' in expression	ModBus.c
+error: 93	324	Undeclared identifier 'RXEN0_bit' in expression	ModBus.c
+error: 108	324	Undeclared identifier 'RXEN0_bit' in expression	ModBus.c
+error: 111	324	Undeclared identifier 'RXEN0_bit' in expression	ModBus.c
+error: 126	324	Undeclared identifier 'sprintf' in expression	ModBus.c
+error: 126	402	; expected, but '10' found	ModBus.c
+error: 126	424	'}' expected ';' found	ModBus.c
+error: 133	324	Undeclared identifier 'sprintf' in expression	ModBus.c
+error: 135	424	'}' expected '}' found	ModBus.c
+error: 136	424	'}' expected '}' found	ModBus.c
+hint: 48	1163	Variable 'ucData' has been declared, but not used	ModBus.c
+hint: 48	1163	Variable 'ucData1' has been declared, but not used	ModBus.c
+hint: 49	1163	Variable 'i' has been declared, but not used	ModBus.c
+error: 137	312	Internal error ''	ModBus.c
+error: 0	102	Finished (with errors): 12 Jan 2024, 14:38:30	ModBus.mcpav

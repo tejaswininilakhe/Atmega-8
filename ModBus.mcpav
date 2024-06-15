@@ -1,0 +1,158 @@
+[DEVICE]
+Name=ATMEGA8
+Clock=16000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=ModBus.c
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=2000
+[EEPROM_DEFINITION]
+Value=
+[BOOT_TYPE]
+Value=0
+[EXPANDED_NODES]
+Node0=Sources
+Node1=Header Files
+Count=2
+[FILES]
+Count=1
+File0=ModBus.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=1
+File0=ModBus.c
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=25
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\defs\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\uses\lte64kw\
+Path2=D:\tejaswini\AVR_27_7_2016\
+Path3=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Uses\
+Path4=D:\iPDU_All using Boards_Data\Lakshmi\Final Handover\AVR_27_7_2016\
+Path5=D:\iPDU_All using Boards_Data\Lakshmi\AVR_15_7_2016\
+Path6=D:\iPDU_All using Boards_Data\Lakshmi\AVR_8_7_2016_1\
+Path7=D:\iPDU_All using Boards_Data\Lakshmi\AVR_10_6_2016\
+Path8=D:\iPDU_All using Boards_Data\Sachin\AVR_10_6_2016\
+Path9=D:\iPDU_All using Boards_Data\Sachin\AVR_9_6_2016\
+Path10=D:\iPDU_All using Boards_Data\Sachin\AVR_8_6_2016\
+Path11=D:\iPDU_All using Boards_Data\Sachin\AVR_7_6_2016\
+Path12=D:\iPDU_All using Boards_Data\Sachin\AVR_6_4_2016_2\
+Path13=D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR_6_4_2016_2\
+Path14=D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR_6_4_2016_1\
+Path15=D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR_6_4_2016\
+Path16=D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR\
+Path17=D:\iPDU_All using Boards_Data\DI\SmokeFactory_8_5_2016\
+Path18=D:\iPDU_All using Boards_Data\DI\SmokeFactory_7_5_2016_1\
+Path19=D:\iPDU_All using Boards_Data\DI\SmokeFactory_7_5_2016\
+Path20=D:\iPDU_All using Boards_Data\DI\SmokeFactory_6_5_2016_1\
+Path21=D:\iPDU_All using Boards_Data\DI\SmokeFactory_6_5_2016\
+Path22=D:\iPDU_All using Boards_Data\DI\SmokeFactory_5_5_2016\
+Path23=D:\iPDU_All using Boards_Data\DI\SmokeFactory_4_5_2016\
+Path24=D:\iPDU_All using Boards_Data\DI\SmokeFactory\
+[HEADER_PATH]
+Count=22
+Path0=D:\iPDU_All using Boards_Data\DI\SmokeFactory\
+Path1=D:\iPDU_All using Boards_Data\DI\SmokeFactory_4_5_2016\
+Path2=D:\iPDU_All using Boards_Data\DI\SmokeFactory_5_5_2016\
+Path3=D:\iPDU_All using Boards_Data\DI\SmokeFactory_6_5_2016\
+Path4=D:\iPDU_All using Boards_Data\DI\SmokeFactory_6_5_2016_1\
+Path5=D:\iPDU_All using Boards_Data\DI\SmokeFactory_7_5_2016\
+Path6=D:\iPDU_All using Boards_Data\DI\SmokeFactory_7_5_2016_1\
+Path7=D:\iPDU_All using Boards_Data\DI\SmokeFactory_8_5_2016\
+Path8=D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR\
+Path9=D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR_6_4_2016\
+Path10=D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR_6_4_2016_1\
+Path11=D:\iPDU_All using Boards_Data\Drusti\AVR_Based\AVR_6_4_2016_2\
+Path12=D:\iPDU_All using Boards_Data\Sachin\AVR_6_4_2016_2\
+Path13=D:\iPDU_All using Boards_Data\Sachin\AVR_7_6_2016\
+Path14=D:\iPDU_All using Boards_Data\Sachin\AVR_8_6_2016\
+Path15=D:\iPDU_All using Boards_Data\Sachin\AVR_9_6_2016\
+Path16=D:\iPDU_All using Boards_Data\Sachin\AVR_10_6_2016\
+Path17=D:\iPDU_All using Boards_Data\Lakshmi\AVR_10_6_2016\
+Path18=D:\iPDU_All using Boards_Data\Lakshmi\AVR_8_7_2016_1\
+Path19=D:\iPDU_All using Boards_Data\Lakshmi\AVR_15_7_2016\
+Path20=D:\iPDU_All using Boards_Data\Lakshmi\Final Handover\AVR_27_7_2016\
+Path21=D:\tejaswini\AVR_27_7_2016\
+[HEADERS]
+Count=1
+File0=LCD.h
+[PLDS]
+Count=0
+[Useses]
+Count=56
+File0=ADC
+File1=Button
+File2=CAN_SPI
+File3=Compact_Flash
+File4=Compact_Flash_FAT16
+File5=Conversions
+File6=C_Math
+File7=C_Stdlib
+File8=C_String
+File9=C_Type
+File10=EEPROM
+File11=EPSON_S1D13700
+File12=FLASH
+File13=Glcd
+File14=Glcd_Fonts
+File15=Keypad4x4
+File16=Lcd
+File17=Lcd_Constants
+File18=Manchester
+File19=MemManager
+File20=Mmc
+File21=Mmc_FAT16
+File22=Mmc_Fat16_Config
+File23=One_Wire
+File24=Port_Expander
+File25=PrintOut
+File26=PS2
+File27=PWM1
+File28=PWM16bit
+File29=PWM2
+File30=RS485
+File31=Software_I2C
+File32=Software_SPI
+File33=Software_UART
+File34=Sound
+File35=SPI
+File36=SPI_Ethernet
+File37=SPI_Ethernet_24j600
+File38=SPI_Glcd
+File39=SPI_Lcd
+File40=SPI_Lcd8
+File41=SPI_T6963C
+File42=Sprintf
+File43=Sprinti
+File44=Sprintl
+File45=T6963C
+File46=TFT
+File47=TFT_16bit
+File48=TFT_16bit_Defs
+File49=TFT_Defs
+File50=TFT_TouchPanel
+File51=Time
+File52=TouchPanel
+File53=Trigonometry
+File54=TWI
+File55=UART
+[EXPANDED NODES]
+Node1=Sources
+Node2=Header Files
+Count=2
