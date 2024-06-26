@@ -17,7 +17,7 @@ volatile unsigned char bTxCom;
 void vCheckPacket(unsigned char usRecData)
 {
  //unsigned char usRecData;
-
+//for continous loop
  if(1)
  {
 
