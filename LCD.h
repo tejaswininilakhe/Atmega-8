@@ -1,4 +1,4 @@
-
+/******************************************************/
 sbit LCD_RS at PORTC3_bit;
 sbit LCD_EN at PORTC2_bit;
 sbit LCD_D4 at PORTB4_bit;
