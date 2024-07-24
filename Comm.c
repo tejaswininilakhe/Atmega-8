@@ -1,6 +1,6 @@
 #define Comm
 #include "Comm.h"
-
+/***********************************************************************/
 unsigned char ucIndex;
 unsigned char ucState;
 volatile unsigned char bTxCom;
