@@ -163,7 +163,7 @@ unsigned char ucFindIndex( unsigned char *ucSource,unsigned char ucData,unsigned
                 
                 return ucIndex2;
 }
-
+/* Initialise Serial Port */
 void vSerialInit(void)
 {
  ucState = STX;
