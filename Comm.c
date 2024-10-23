@@ -67,7 +67,7 @@ void vCheckPacket(unsigned char usRecData)
 
 }
 
-
+/*************************************************************************/
 /*void vCheckPacket(unsigned char usRecData)
 {
         //usRecData = SBUF;
