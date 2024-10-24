@@ -93,7 +93,7 @@ struct sCommData
   unsigned  char ucFlouid;
 };*/
 
-
+/*********************************************************************************************/
 
 void vSerialInit(void);
 unsigned char ucFindIndex( unsigned char *ucSource,unsigned char ucData,unsigned char ucIndex);
