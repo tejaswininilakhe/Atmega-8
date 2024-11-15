@@ -184,7 +184,7 @@ void vDecodePacket(void)
                         default:;
                 }
 }
-
+/*************************** Read Serial Input ************************************************/
 #ifndef COMPRESS
 void vReadCommand(void)
 {
