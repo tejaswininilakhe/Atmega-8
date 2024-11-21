@@ -478,7 +478,7 @@ void vReadCommand(void)
 }
 
 #endif
-
+/**********************************************************************************/
 void vWriteCommand(void)
 {
         unsigned int uiCommand,uiIndex;
