@@ -119,7 +119,7 @@ void vCheckPacket(unsigned char usRecData)
 
 }*/
 
-
+/********************************************************************************************/
 unsigned char ucFindIndex( unsigned char *ucSource,unsigned char ucData,unsigned char ucIndex)
 {
         unsigned char ucIndex1=0;
