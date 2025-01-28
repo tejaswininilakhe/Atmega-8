@@ -169,7 +169,7 @@ void vSerialInit(void)
  ucState = STX;
  //bReadWeight = 0;
 }
-
+/*******************************************************************************************/
 void vDecodePacket(void)
 {
                 switch(ucInputPassBuf[0])
