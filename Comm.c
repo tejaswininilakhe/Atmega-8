@@ -47,7 +47,7 @@ void vCheckPacket(unsigned char usRecData)
       else
       {
        ucInputPass[ucIndex++]= usRecData;
-       if(ucIndex>BUFFER_SIZE-1 || usRecData=='<')
+       if(ucIndex>BUFFER_SIZE-1 || usRecData=='<')         //
        {
         ucState = STX;
        }
