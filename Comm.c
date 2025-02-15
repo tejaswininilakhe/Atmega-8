@@ -175,10 +175,10 @@ void vDecodePacket(void)
                 switch(ucInputPassBuf[0])
                 {
                         case 'R':
-                                vReadCommand();
+                                vReadCommand();      //Command to read Packet
                                 break;
                         case 'W':
-                                vWriteCommand();
+                                vWriteCommand();      //Function to Write Packet
                                 break;
                         
                         default:;
