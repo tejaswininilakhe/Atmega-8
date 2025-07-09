@@ -5,7 +5,7 @@ unsigned char ucIndex;
 unsigned char ucState;
 volatile unsigned char bTxCom;
 //unsigned char bBTModule;
-/******************************************************************************/
+/********************************************************************************/
 //#define COMPRESS
 
 #define STX         0x01
