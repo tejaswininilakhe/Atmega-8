@@ -118,7 +118,7 @@ void vCheckPacket(unsigned char usRecData)
 
 
 }*/
-
+/*Function to find the data from the packet*/
 /********************************************************************************************/
 unsigned char ucFindIndex( unsigned char *ucSource,unsigned char ucData,unsigned char ucIndex)
 {
@@ -653,4 +653,5 @@ void vWriteCommand(void)
         bWriteFlag = 1;
 }
 /******************** End FIle ******************************************************************/
+
 
